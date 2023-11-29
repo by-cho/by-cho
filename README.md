@@ -5,7 +5,7 @@
 </h2>
 
 #### <div align="center">Hi there! I'm Yoony🙋‍♂️<div>
-#### <div align="center">IOS / Flutter Developer from S.Korea 🇰🇷<div>
+#### <div align="center">Flutter / iOS Developer from S.Korea 🇰🇷<div>
 #### <div align="center">Recently, I have been living in Vancouver, Canada 🇨🇦<div>
 #### <div align="center">sociable, fit in with everyone, fast learner🏃‍♀️<div>
 #### <div align="center">I'm ready to devour all Dev knowledge like Tyrannosaurus!🦖<div>
