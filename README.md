@@ -11,6 +11,8 @@
 #### <div align="center">I'm ready to make new world!<div>
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Flutter&logoColor=white&color=02589B)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=54C5F8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
