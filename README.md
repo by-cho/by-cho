@@ -1,6 +1,6 @@
 
 <h2 align='center'>
-<!--   Dev Saûros Yoony🦖 -->
+<!--   Product Manager Yoony🦖 -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Saûros+Yoony!+🦖;&font=Kanit&size=30&weight=700Code&center=true&width=500&height=60&duration=3500&pause=1000&color=B3741C">
 </h2>
 
